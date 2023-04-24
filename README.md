@@ -534,10 +534,12 @@ It is much more performant, offering better UX and made development way easier. 
 
 </details>
 
+***
+
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/losr/)
 
-***
+
 
 ## License
     Copyright (C) 2022  hxr404
